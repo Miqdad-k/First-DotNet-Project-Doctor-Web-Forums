@@ -1,0 +1,1190 @@
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\source\repos\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\asp\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\reply\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\New folder\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\23-march\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\new\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\asp\Desktop\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\a\Desktop\Untitled folder\DoctorWebForum (4)\DoctorWebForum (4)\DoctorWebForum\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\DoctorWebForum.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csc.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\csi.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.AppContext.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Console.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Http.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.ValueTuple.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\vbc.rsp
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Owin.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\WebGrease.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Helpers.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Mvc.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Optimization.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.Razor.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Newtonsoft.Json.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Antlr3.Runtime.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csprojAssemblyReference.cache
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CoreCompileInputs.cache
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.csproj.CopyComplete
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\obj\Debug\DoctorWebForum.pdb
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\PagedList.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\PagedList.Mvc.dll
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\PagedList.xml
+C:\Users\ok\Desktop\DoctorWebForum\DoctorWebForum\bin\PagedList.Mvc.xml

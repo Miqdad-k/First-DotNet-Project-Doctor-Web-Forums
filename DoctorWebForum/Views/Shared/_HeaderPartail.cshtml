@@ -1,0 +1,39 @@
+﻿
+
+<div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-between">
+        <div class="contact-info d-flex align-items-center">
+            <i class="bi bi-envelope"></i> <a href="mailto:Aptech@aptech.com">Aptech@aptech.com</a>
+            <i class="bi bi-phone"></i> +92 9007 8601
+        </div>
+        <div class=" d-lg-flex align-items-center">
+            @Html.Partial("_LoginPartial")
+
+        </div>
+    </div>
+</div>
+
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <a href="index.html" class="me-auto"><img src="@Url.Content("~/Images/logo.png")" alt="" class="img-fluid" width="100" height="200" style="margin-top:-20px;"></a>
+
+        <nav id="navbar" class="navbar order-last order-lg-0">
+            <ul>
+                <li><a class="nav-link scrollto " href="@Url.Content("~/Home/Index")">Home</a></li>
+                <li><a class="nav-link scrollto" href="@Url.Content("~/Home/About")">About</a></li>
+                <li><a class="nav-link scrollto" href="@Url.Content("~/Query/Index")">Questions</a></li>
+                <li><a class="nav-link scrollto" href="@Url.Content("~/Home/ShowUserList")">Doctors</a></li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+
+
+
+    </div>
+
+</header>
+<div style="margin-top:128px;"></div>

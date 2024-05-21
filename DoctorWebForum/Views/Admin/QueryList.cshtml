@@ -1,0 +1,100 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<DoctorWebForum.Models.Query_Post>
+
+<link href="@Url.Content("~/Content/assets/css/style.css")" rel="stylesheet">
+
+<style>
+
+    .pagination li {
+        padding: 2px;
+        
+    }
+
+        .pagination li a {
+            color: black;
+            font-size: 18px;
+        }
+</style>
+
+
+
+@{
+    ViewBag.Title = "Question";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+
+
+
+
+<!-- ======= Frequently Asked Questions Section ======= -->
+<section id="faq" class="faq section-bg" style="margin-top:80px">
+    <div class="container">
+        @using (Html.BeginForm("Index", "Admin", FormMethod.Post))
+        {
+            <div class="card-body row align-items-center" style="margin-bottom:10px; margin-left:80px;">
+
+                <!--end of col-->
+                <div class="col-md-3 col-sm-3">
+                    <span>
+                        <b>
+                            All Questions
+                        </b>
+                    </span>
+                    <br />
+                    <span>@ViewBag.query question</span>
+                </div>
+                <div class="col-md-4 col-sm-5 " style="padding:0px;">
+                    @Html.TextBox("seacrhing", "", new { @class = "form-control form-control-lg form-control-borderless", @placeholder = "Search By Doctors Or Specification..." })
+                </div>
+                <!--end of col-->
+                <div class="col-md-2 col-sm-4" style="padding:0px">
+                    <button class="btn btn-md btn-default text-black border" type="submit">Search</button>
+                </div>
+                <div class="col-md-2 col-sm-12">
+                    <span class="btn btn-warning text-white " style="margin-left:30px; color:white !important;"><a href="@Url.Content("~/Query/createQuery")">Asked Question</a></span>
+                </div>
+                <!--end of col-->
+            </div>
+
+
+        }
+
+        <div class="faq-list">
+            <ul>
+                @{int count = 1; }
+                @foreach (var item in Model)
+                {
+
+
+                    <li data-aos="fade-up" data-aos-delay="100">
+                        <i class="bx bx-help-circle icon-help"></i>@Html.ActionLink(item.question, "DetailqueryPost", "Query", new { id = item.q_id }, null) <span data-bs-toggle="collapse" data-bs-target="#faq-list-@count" class="collapsed"><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-down icon-close"></i></span>
+                        <div id="faq-list-@count" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                @item.Summary
+                            </p>
+                            <b>Tags:</b>
+                            <span class="border">@item.tags</span>
+                        </div>
+                    </li>
+                    count++;
+
+                }
+            </ul>
+        </div>
+
+    </div>
+    <div class="container text-center">
+        <div class="row">
+            <div class=""></div>
+            <div class="col-md-12">
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page, searching = Request.QueryString["seacrhing"] }), new PagedListRenderOptions()
+{
+   Display = PagedListDisplayMode.IfNeeded
+})
+            </div>
+        </div>
+
+    </div>
+
+</section><!-- End Frequently Asked Questions Section -->

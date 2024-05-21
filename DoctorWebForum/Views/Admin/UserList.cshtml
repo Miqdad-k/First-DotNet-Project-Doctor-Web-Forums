@@ -1,0 +1,85 @@
+﻿@model IEnumerable<DoctorWebForum.Models.UserDetails>
+
+@{
+    ViewBag.Title = "User Details";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.u_Image)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.U_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.F_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone_No)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Specailization)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.JoinedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nationality)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+       <img src="@Url.Content(item.u_Image)" width="40" height="40"/>
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.U_name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.F_name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DOB)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Phone_No)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Status)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Specailization)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.JoinedDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Nationality)
+    </td>
+    <td>
+
+        @Html.ActionLink("Details", "viewprofileDetails", "Home", new { id = item.U_id}, new { @class = " label label-info" })
+      |  @Html.ActionLink("Delete", "deleteAccount", new { id = item.U_id })
+    </td>
+</tr>
+}
+
+</table>

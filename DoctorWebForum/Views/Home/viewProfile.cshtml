@@ -1,0 +1,113 @@
+﻿@model DoctorWebForum.Models.DoctorDetails
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .labels{
+        font-weight:bold;
+    }
+</style>
+<div>
+    <div class="container rounded bg-white mt-5 mb-5">
+        <div class="row">
+            <div class="col-md-3 border-right">
+                <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                    <img class="rounded-circle mt-5" src="@Url.Content(Model.u_Image)" Width="200" height="200">
+                    <span class="font-weight-bold">@Model.U_name</span><span class="text-black-50">@Model.Email</span><span> </span>
+                   <br/>
+                    @if (Model.U_id == User.Identity.GetUserId())
+                    {
+                        @Html.ActionLink("Edit Profile", "EditDetails", "Home", new { id = Model.U_id }, new { @class = "btn btn-primary" })
+                    }
+                </div>
+            </div>
+            <div class="col-md-5 border-right">
+                <div class="p-3 py-5">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h4 class="text-right">Profile Details</h4>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <label class="labels">Name :</label>
+                            <br/>
+                            @Html.DisplayFor(model => model.U_name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Your  Name" } })
+
+                        </div>
+                        <div class="col-md-6">
+                            <label class="labels">Father Name :</label><br />@Html.DisplayFor(model => model.F_name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Your Father Name" } })
+                           
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-6">
+                            <label class="labels">Date Of Birth :</label><br />@Html.DisplayFor(model => model.DOB, new { htmlAttributes = new { @class = "form-control", @placeholder = "MM/DD/YYYY" } })
+                          
+                        </div>
+
+                        <div class="col-md-6">
+                            <label class="labels">Phone No :</label><br />
+                            @Html.DisplayFor(model => model.Phone_No, new { htmlAttributes = new { @class = "form-control", @placeholder = "0XXX-XXXXXXX" } })
+                    
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-6">
+                            <label class="labels">Nationality :</label><br />
+                            @Html.DisplayFor(model => model.Nationality, new { htmlAttributes = new { @class = "form-control", @placeholder = "Pakistani , Indian etc" } })
+         
+                        </div>
+                        <div class="col-md-6">
+                            <label class="labels">Specailization :</label><br />
+                            @Html.DisplayFor(model => model.Specailization, new { htmlAttributes = new { @class = "form-control", @placeholder = "Pakistani , Indian etc" } })
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-6">
+                            <label class="labels">City :</label><br />
+                            @Html.DisplayFor(model => model.City, new { htmlAttributes = new { @class = "form-control", @placeholder = "Pakistani , Indian etc" } })                        </div>
+
+                        <div class="col-md-6">
+                            <label class="labels">country :</label><br />@Html.DisplayFor(model => model.country, new { htmlAttributes = new { @class = "form-control", @placeholder = "Pakistani , Indian etc" } })
+                           
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-6">
+                            <label class="labels">Gender :</label><br />
+                            @Html.DisplayFor(model => model.Gender)
+                           
+                        </div>
+                     
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="p-3 py-5">
+                    <div class="d-flex justify-content-between align-items-center experience"><h4>Professional Details</h4></div><br>
+                    <div class="col-md-12" style="margin-bottom:10px">
+                        <label class="labels">School :</label><br />
+                        @Html.DisplayFor(model => model.School, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col-md-12" style="margin-bottom:10px">
+                        <label class="labels">College :</label><br />
+                        @Html.DisplayFor(model => model.College, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col-md-12" style="margin-bottom:10px">
+                        <label class="labels">University :</label><br />
+                        @Html.DisplayFor(model => model.University, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                    <div class="col-md-12">
+                        <label class="labels">Experience :</label><br />
+                        @Html.DisplayFor(model => model.Experience, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

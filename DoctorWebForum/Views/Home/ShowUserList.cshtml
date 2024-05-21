@@ -1,0 +1,73 @@
+﻿@model IEnumerable<DoctorWebForum.Models.UserDetails>
+
+@{
+    ViewBag.Title = "User List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ======= Doctors Section ======= -->
+<section id="doctors" class="doctors" style="margin-top:80px;">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Doctors</h2>
+        </div>
+       
+        
+            @using (Html.BeginForm("ShowUserList", "Home", FormMethod.Post))
+            {
+    <div class="card-body row align-items-center" style="margin-bottom:20px;">
+
+        <!--end of col-->
+        <div class="col-md-3"> </div>
+        <div class="col-md-6" style="padding:0px;">
+            @Html.TextBox("seacrhing", "", new { @class = "form-control form-control-lg form-control-borderless", @placeholder = "Search Doctors..." })
+        </div>
+        <!--end of col-->
+        <div class="col-auto" style="padding:0px">
+            <button class="btn btn-lg btn-success" type="submit">Search</button>
+        </div>
+        <div class="col-md-3"> </div>
+        <!--end of col-->
+    </div>
+
+        }
+
+   
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    if (item.Status == "Active")
+                    {
+                    <div class="col-lg-4" style="margin-bottom:10px;">
+                        <div class="member d-flex align-items-start">
+                            <div>
+                                <img src="@Url.Content(item.u_Image)" class="img-fluid" alt="" width="100" height="100" style="border-radius:80px;border:1px black solid; transition:all ease-in 1s; padding:1px;">
+                                <p class="text-center btn-sm btn-primary">@Html.ActionLink("View Profile", "viewProfile", new { id = item.U_id }, new { @class = "text-white" })</p>
+                            </div>
+        
+                            <div class="member-info">
+                                <h4>@item.U_name</h4>
+                                @if (item.Specailization.IsEmpty())
+                                {<span><br /></span> }
+                                else
+                                {<span>@item.Specailization</span>}
+
+                                <p>@item.City,@item.country</p>
+                                <div style="margin-top:20px;">
+
+                                    @Html.ActionLink("Ask Question", "createquery", "Query", new { id = item.U_id }, new { @class = " btn-sm btn-warning Text-white" })
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    }
+                }
+
+            </div>
+
+        </div>
+    
+</section><!-- End Doctors Section -->

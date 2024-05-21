@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DoctorWebForum.Models.UserDetails>
+@using Microsoft.AspNet.Identity
+
+@foreach (var item in Model)
+{
+    if (item.U_id == User.Identity.GetUserId())
+    { 
+
+<span class="mr-2 d-none d-lg-inline text-gray-600 small">@Html.ActionLink(@item.U_name, "viewProfile", new { id = User.Identity.GetUserId() }, new { @class = "" }) </span>
+    <img style="border-radius:50%; margin-top:2px; margin-right:10px;"
+         src="@Url.Content(item.u_Image)" height="40" width="40">
+
+    }
+}
+
+

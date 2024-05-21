@@ -1,0 +1,81 @@
+﻿@model DoctorWebForum.Models.Query_Post
+
+<style>
+    .card1 {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        padding: 20px;
+        width: 500px;
+        height: 100%;
+        margin-bottom: 50px;
+        word-wrap: break-word;
+        background-color: rgba(0,0,0,0.10) !important;
+        background-clip: border-box;
+        border-radius: 6px;
+        -moz-box-shadow: 0px 0px 5px 0px rgba(206, 201, 201, 1)
+    }
+    .control-label {
+        font-weight:bold;
+    }
+    textarea {
+        resize: none;
+        width: 100%;
+    }
+
+
+
+</style>
+
+@{
+    ViewBag.Title = "Query";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1 class="text-center" style="margin-top:30px;">Ask Question</h1>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <div class="container-fluid card1" style="border: 1px solid black;">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.question, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-12">
+                    @Html.TextAreaFor(model => model.question, new { rows = "2", htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.question, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Summary, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-12">
+                    @Html.TextAreaFor(model => model.Summary, new { rows = "6", htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Summary, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label><b>Tags</b></label>
+                <div class="col-md-3 col-sm-3">
+                    @Html.EditorFor(model => model.tags, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.tags, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+            <br />
+            <div class="form-group">
+                <div class="col-md-offset-8 col-md-4">
+                    <input type="submit" value="Post" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+}
+
+

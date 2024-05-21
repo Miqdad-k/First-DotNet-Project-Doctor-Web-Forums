@@ -1,0 +1,181 @@
+﻿@model DoctorWebForum.Models.Query_Post
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Detail Post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="margin-top:8%;"></div>
+<!--<div class="container" style="margin-top:130px;">
+    <div class="col-md-12">
+
+
+        <div class="col-md-2"></div>
+        <div class="col-md-10">
+            <h2>@Html.DisplayFor(model => model.question)</h2>
+            <p><b>Asked  </b>@Model.CreateOn</p>
+            <b>Summary :</b><p>@Html.DisplayFor(model => model.Summary)</p>
+        </div>
+        <br />
+
+        <div class="col-md-12" style="margin-top:20px;">
+            <div class="col-md-2"></div>
+            <div class="col-md-10">-->
+                @*@using (Html.BeginForm("PostReply", "Query", FormMethod.Post))
+                {<b>Your Answer</b>
+                    <br />
+                    <input type="text" name="Reply" style="width:50%; height:50px; " placeholder="Type Reply..." multiline />
+                    <input type="hidden" name="CID" value="@Model.q_id" />
+                    <br />
+                    <input type="submit" value="Post Your Answer" class="btn-sm btn-primary" style="margin-top:5px;" />
+                }*@
+            <!--</div>
+        </div>
+
+        <div class="col-md-12" style="margin-top:30px;">
+            <h3>Answer :</h3>
+
+            @foreach (var reply in Model.Query_Reply)
+            {
+
+                <div class="col-md-12">
+                    <img src="@Url.Content(reply.UserDetails.u_Image)" alt="Alternate Text" style="border-radius: 50%; width:40px;height:40px; margin-right:30px;" />
+                    @Html.DisplayFor(modelreply => reply.UserDetails.U_name)
+                    <p style="margin-left:60px;">@Html.DisplayFor(modelreply => reply.CreateOn)</p>
+                    @if (reply.U_id == User.Identity.GetUserId() || User.Identity.GetUserId() == "d6f42b52-75ae-42bf-b348-02cd0d704cea")
+                    {
+                        @Html.ActionLink("Delete", "Deletereply", "Admin", new { id = reply.R_id }, new { @class = " label label-info" })
+                    }
+                </div>
+                <div style="margin-top:70px;">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-10" style="border:dashed 1px;">
+                        <b>Summary :</b>@Html.DisplayFor(modelreply => reply.Reply)
+                    </div>
+                </div>
+
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />-->
+<div class="container mt-5 mb-5">
+    <div class="d-flex justify-content-center row">
+        <div class="d-flex flex-column col-md-8">
+            
+            <div class="d-flex flex-row align-items-center text-left comment-top p-2 bg-white border-bottom px-4">
+
+                <div class="profile-image"><img class="rounded-circle" src="@Url.Content(Model.UserDetails.u_Image)" width="70"></div>
+
+                <div class="d-flex flex-column ml-3">
+                    <div class="d-flex flex-row post-title">
+                        <h5>@Model.question</h5><span class="ml-2">(@Model.UserDetails.U_name)</span>
+                    </div>
+                    <div class="d-flex flex-row align-items-center align-content-center post-title"><span class="mr-2  ml-3"></span><span class=" ml-3">@Model.CreateOn ago</span></div>
+                    <br />
+                    <div class="d-flex flex-row align-items-center align-content-center post-title">@Model.Summary</div>
+                </div>
+                <div class="d-flex flex-row align-items-center align-content-center post-title" >
+                    <div class="col-md-8 col-md-offset-2">
+                        @if (Model.U_id == User.Identity.GetUserId())
+                        {
+                            @Html.ActionLink("Edit", "Editquery", "Query", new { id = Model.q_id }, new { @class = " label label-info" })
+                        }
+                    </div></div>
+                </div>
+                <div class="coment-bottom bg-white p-2 px-4">
+                    @using (Html.BeginForm("PostReply", "Query", FormMethod.Post))
+                    {
+                        <input type="hidden" name="CID" value="@Model.q_id" />
+                        <br />
+                        <div class="d-flex flex-row add-comment-section mt-4 mb-4">
+                            <img class="img-fluid img-responsive rounded-circle mr-2" src="@Url.Content("~/images/avatar.png")" width="38">
+                            <input type="text" name="Reply" class="form-control mr-3" placeholder="Type Reply...">
+                            <input class="btn btn-primary" value="Post Your Answer" type="submit">
+                        </div>
+                    }
+                    @foreach (var reply in Model.Query_Reply)
+                    {
+
+
+                        <div class="commented-section mt-2">
+                            <b><span>Suggestion & Reply</span></b>
+                            <br />
+                            <div class="d-flex flex-row align-items-center commented-user">
+                                <h5 class="mr-2">@reply.UserDetails.U_name</h5><span class="dot mb-1"></span><span class="mb-1 ml-2">@reply.CreateOn ago</span>
+                            </div>
+                            <div class="comment-text-sm ">
+
+                                <span style="margin-left:20px;">@reply.Reply</span>
+                                <br />
+                                <div style="float:right;">
+                                    @if (reply.U_id == User.Identity.GetUserId() || User.Identity.GetUserId() == "d6f42b52-75ae-42bf-b348-02cd0d704cea")
+                                    {
+                                        @Html.ActionLink("Delete", "Deletereply", "Admin", new { id = reply.R_id }, new { @class = " label label-info" })
+                                    }
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+    </div>
+</div>
+<style>
+    body {
+        background-color: #eee
+    }
+
+    .bdge {
+        height: 21px;
+        background-color: orange;
+        color: #fff;
+        font-size: 11px;
+        padding: 8px;
+        border-radius: 4px;
+        line-height: 3px
+    }
+
+    .comments {
+        text-decoration: underline;
+        text-underline-position: under;
+        cursor: pointer
+    }
+
+    .dot {
+        height: 7px;
+        width: 7px;
+        margin-top: 3px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block
+    }
+
+    .hit-voting:hover {
+        color: blue
+    }
+
+    .hit-voting {
+        cursor: pointer
+    }
+</style>
+
+
+@*<p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.q_id }) |
+
+    </p>*@
